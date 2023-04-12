@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family= Delicious +Handdrawn & display=swap');
+@import url('https://fonts.googleapis.com/css2?family= Delicious +Handdrawn &familia= Pacifico & display=swap');
+*{
+    margin: 10;
+    padding: 0;
+    font-family: 'Delicious Handrawn', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+html,body{
+    background-color:greenyellow;
+
+}
+
+.banner{
+    background-image: url(../img/saiki.jpg);
+    color: greenyellow;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img{
+    background-image: url(../img/reativado.jpg);
+    height: 50px;
+}
+h1{
+    color:crimson;
+    text-align: center;
+}
+h2{
+    color: crimson;
+    text-align: center;
+}
+h3{
+    color: crimson;
+    text-align: center;
+}
+section div{
+    border: 1px solid palevioletred;
+    text-align: center;
+    padding: 15px 20px 5px 8px;
+    margin: 10px;
+}
+p{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+.borda{
+    border: 1px solid palevioletred;
+    
+}
